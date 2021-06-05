@@ -125,3 +125,7 @@ while True:
     except Exception as e:
         print ("Error",e)
     time.sleep(10)
+    
+    run the anomaly detection code using the following command
+
+python3 anomaly_detection.py
